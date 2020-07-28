@@ -11,4 +11,4 @@ Download Fortnite version 1.8 here - https://drive.google.com/file/d/151rESWUgcE
 Use this tutorial to follow along - https://www.youtube.com/watch?v=fJu4G2QnLAE
 
 # FYI
-Run server.exe before starting anything this is the private server that allows you to get in and play the game.
+Run server.exe before starting anything this is the private server that allows you to get in and play the game. Server.exe removes the fiddler application prosess form the whole step.
