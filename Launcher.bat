@@ -1,0 +1,1 @@
+FortniteClient-Win64-Shipping.exe -skippatchcheck -epicportal -HTTP=WinINet
