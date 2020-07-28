@@ -1,3 +1,3 @@
-# FortTimeMachine
+# FortniteTimeMachine
 
 THIS PROJECT IS NOT MADE BY ME, I MADE IT AN ALL IN ONE DOWNLOAD.
